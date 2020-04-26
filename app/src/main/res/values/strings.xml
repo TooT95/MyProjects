@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My first app</string>
+    <string name="hello_string">Hello Javohir</string>
+    <string name="counter_String">Counter:</string>
+    <string name="ok">OK</string>
+    <string name="list_record_Title">Title</string>
+    <string name="free_apps">Free apps</string>
+    <string name="songs">Songs</string>
+    <string name="paid_apps">Paid apps</string>
+</resources>
